@@ -1,0 +1,61 @@
+CustomerID,CustomerName,HomeArea,JoinDate,Membership
+CUST001,Debashish Karmakar,New Market,2024-06-01,Ragular
+CUST002,Riya Karmakar,Ballygunge,2024-11-06,Ragular
+CUST003,Suroj Karmakar,Dum Dum,2023-01-13,Gold
+CUST004,Rajarshi Mukherjee,Howrah,2023-01-18,
+CUST005,Poulomi Das,Park Street,2023-04-09,
+CUST006,Debashish Banerjee,New Market,2024-09-26,
+CUST007,Tanmoy Chatterjee,Howrah,2025-03-25,Ragular
+CUST008,Rohan Chatterjee,Dum Dum,2024-04-15,
+CUST009,Sneha Banerjee,Howrah,2024-12-01,Gold
+CUST010,Ananya Ghosh,Dum Dum,2024-01-24,Ragular
+CUST011,Nandini Sen,Gariahat,2024-10-14,Gold
+CUST012,Moumita Ghosh,Ballygunge,2025-05-15,Ragular
+CUST013,Souvik Bose,Park Street,2024-06-24,Gold
+CUST014,Sneha Banerjee,Ballygunge,2023-10-05,Gold
+CUST015,Rohan Mukherjee,Gariahat,2023-07-03,Regular
+CUST016,Suroj Banerjee,Salt Lake,2025-02-09,Ragular
+CUST017,Rohan Mukherjee,Salt Lake,2024-07-31,Silver
+CUST018,Amit Roy,Behala,2024-01-29,Silver
+CUST019,Rohan Dutta,Behala,2023-02-24,Gold
+CUST020,Poulomi Banerjee,Park Street,2023-12-15,
+CUST021,Piyali Bose,Dum Dum,2025-03-03,Regular
+CUST022,Suroj Mukherjee,Ballygunge,2024-05-17,Silver
+CUST023,Riya Dutta,Dum Dum,2024-03-18,Silver
+CUST024,Amit Roy,Park Street,2025-03-01,
+CUST025,Ishita Banerjee,Park Street,2023-03-26,Regular
+CUST026,Debashish Roy,Salt Lake,2025-01-27,Ragular
+CUST027,Souvik Chatterjee,Park Street,2023-04-04,Gold
+CUST028,Ishita Sen,Behala,2025-02-18,Regular
+CUST029,Priya Das,Park Street,2023-07-11,Ragular
+CUST030,Kunal Dutta,Dum Dum,2023-04-16,Gold
+CUST031,Rohan Chatterjee,Park Street,2024-09-03,
+CUST032,Souvik Roy,Gariahat,2023-10-26,Ragular
+CUST033,Abir Ghosh,New Market,2024-08-08,
+CUST034,Moumita Roy,Salt Lake,2023-05-23,Regular
+CUST035,Ishita Mukherjee,Ballygunge,2023-05-30,Gold
+CUST036,Moumita Roy,Howrah,2024-03-07,Regular
+CUST037,Sohini Ghosh,Behala,2023-09-15,Silver
+CUST038,Sohini Bose,New Market,2024-04-13,Gold
+CUST039,Debashish Mukherjee,Gariahat,2024-02-10,Regular
+CUST040,Piyali Roy,Behala,2024-03-26,Regular
+CUST041,Poulomi Bose,Salt Lake,2023-11-04,Regular
+CUST042,Piyali Banerjee,Ballygunge,2023-11-18,Silver
+CUST043,Abir Chatterjee,Howrah,2025-01-22,Ragular
+CUST044,Amit Banerjee,Behala,2024-01-21,Regular
+CUST045,Abir Chatterjee,Park Street,2024-07-31,Silver
+CUST046,Amit Dutta,Salt Lake,2024-11-29,
+CUST047,Suroj Sen,New Market,2024-03-24,Regular
+CUST048,Rohan Roy,Ballygunge,2023-05-23,Regular
+CUST049,Sneha Mukherjee,Salt Lake,2025-01-02,Ragular
+CUST050,Abir Ghosh,Ballygunge,2024-09-04,Ragular
+CUST051,Amit Roy,Dum Dum,2024-07-10,Gold
+CUST052,Riya Dutta,Park Street,2023-04-22,Silver
+CUST053,Riya Das,Gariahat,2024-07-30,Ragular
+CUST054,Souvik Roy,Park Street,2023-01-11,Gold
+CUST055,Tanmoy Banerjee,New Market,2024-04-01,Regular
+CUST056,Abir Sen,Salt Lake,2023-12-20,Gold
+CUST057,Sohini Ghosh,Howrah,2024-03-01,Gold
+CUST058,Priya Das,Behala,2023-11-16,Regular
+CUST059,Kunal Banerjee,Ballygunge,2023-12-23,Ragular
+CUST060,Priya Sen,Ballygunge,2023-11-23,Gold

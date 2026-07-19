@@ -1,0 +1,259 @@
+TransactionID,CustomerID,OrderDate,Area,Product,Category,Qty,UnitPrice,PaymentMode
+TXN0001,CUST041,2025-05-06,Gariahat,Kurti,Clothing,,600.0,
+TXN0002,CUST058,2025-02-17,Dum Dum,Kurti,Clothing,1.0,150.0,Cash
+TXN0003,CUST013,2025-01-04,New Market,Rosogolla Tin,Food,2.0,600.0,Cash
+TXN0004,CUST014,2025-02-19,Park Street,Tea Packet,Grocery,1.0,1200.0,UPI
+TXN0005,CUST047,2025-10-10,Park Street,Punjabi,Clothing,2.0,250.0,Card
+TXN0006,CUST037,2025-05-29,Park Street,Fish (Rui),Food,1.0,450.0,UPI
+TXN0007,CUST018,2025-07-01,Behala,Punjabi,Clothing,1.0,800.0,
+TXN0008,CUST042,2025-03-25,Salt Lake,Kurti,Clothing,3.0,450.0,
+TXN0009,CUST045,2025-04-28,Behala,Fish (Rui),Food,5.0,150.0,UPI
+TXN0010,CUST014,2025-07-22,New Market,Tea Packet,Grocery,,,
+TXN0011,CUST036,2025-07-05,Dum Dum,Jute Bag,Accessories,3.0,1200.0,UPI
+TXN0012,CUST006,2025-12-15,Park Street,Saree,Clothing,1.0,300.0,Cash
+TXN0013,CUST030,2025-12-16,Gariahat,Jute Bag,Accessories,,250.0,Card
+TXN0014,CUST028,2025-09-14,Ballygunge,Sweets Box,Food,1.0,600.0,
+TXN0015,CUST020,2025-04-10,Salt Lake,Fish (Rui),Food,2.0,300.0,UPI
+TXN0016,CUST060,2025-04-05,HOWRAH,Tea Packet,Grocery,1.0,150.0,UPI
+TXN0017,CUST049,2025-10-09,Salt Lake,Sweets Box,Food,,,UPI
+TXN0018,CUST014,2025-08-13,Howrah,Fish (Rui),Food,2.0,800.0,Card
+TXN0019,CUST002,2025-12-29,New Market,Fish (Rui),Food,1.0,250.0,Card
+TXN0020,CUST005,2025-04-20,Howrah,Fish (Rui),Food,,,Cash
+TXN0021,CUST031,2025-08-04,BALLYGUNGE,Fish (Rui),Food,5.0,1200.0,UPI
+TXN0022,CUST027,2025-02-01,Gariahat,Punjabi,Clothing,,250.0,UPI
+TXN0023,CUST016,2025-03-13,New Market,Fish (Rui),Food,3.0,,UPI
+TXN0024,CUST029,2025-02-17,Gariahat,Kurti,Clothing,,150.0,Cash
+TXN0025,CUST056,2025-01-02,Gariahat,Rosogolla Tin,Food,1.0,1200.0,UPI
+TXN0026,CUST019,2025-06-01,Ballygunge,Rosogolla Tin,Food,1.0,450.0,Cash
+TXN0027,CUST004,2025-09-15,GARIAHAT,Tea Packet,Grocery,1.0,,Cash
+TXN0028,CUST005,2025-10-19,new market  ,Kurti,Clothing,2.0,250.0,UPI
+TXN0029,CUST027,2025-05-03,Howrah,Tea Packet,Grocery,1.0,800.0,Card
+TXN0030,CUST030,2025-11-15,PARK STREET,Tea Packet,Grocery,1.0,,Card
+TXN0031,CUST009,2025-05-26,Park Street,Tea Packet,Grocery,1.0,800.0,Card
+TXN0032,CUST040,2025-03-10,Howrah,Saree,Clothing,,250.0,Cash
+TXN0033,CUST010,2025-06-25,Howrah,Jute Bag,Accessories,3.0,450.0,Cash
+TXN0034,CUST032,2025-05-22,GARIAHAT,Jute Bag,Accessories,1.0,1200.0,
+TXN0035,CUST017,2025-10-15,Ballygunge,Sweets Box,Food,3.0,1200.0,
+TXN0036,CUST058,2025-10-26,gariahat  ,Sweets Box,Food,5.0,800.0,Card
+TXN0037,CUST058,2025-08-12,Behala,Saree,Clothing,1.0,450.0,UPI
+TXN0038,CUST040,2025-04-01,NEW MARKET,Sweets Box,Food,5.0,300.0,Card
+TXN0039,CUST051,2025-12-26,new market  ,Rosogolla Tin,Food,2.0,300.0,UPI
+TXN0040,CUST015,2025-04-27,BALLYGUNGE,Fish (Rui),Food,2.0,600.0,Card
+TXN0041,CUST018,2025-12-14,Howrah,Kurti,Clothing,2.0,1200.0,Card
+TXN0042,CUST012,2025-06-26,Gariahat,Jute Bag,Accessories,1.0,1200.0,UPI
+TXN0043,CUST025,2025-01-01,howrah  ,Fish (Rui),Food,1.0,1200.0,
+TXN0044,CUST059,2025-06-03,Behala,Tea Packet,Grocery,,250.0,
+TXN0045,CUST019,2025-12-13,New Market,Sweets Box,Food,2.0,1200.0,Cash
+TXN0046,CUST054,2025-08-09,Howrah,Saree,Clothing,2.0,450.0,Cash
+TXN0047,CUST033,2025-05-26,SALT LAKE,Punjabi,Clothing,,250.0,Cash
+TXN0048,CUST044,2025-03-17,NEW MARKET,Jute Bag,Accessories,5.0,450.0,Cash
+TXN0049,CUST055,2025-12-23,Ballygunge,Kurti,Clothing,2.0,450.0,
+TXN0050,CUST045,2025-04-23,Park Street,Saree,Clothing,5.0,1200.0,UPI
+TXN0051,CUST004,2025-08-26,Park Street,Fish (Rui),Food,2.0,300.0,Cash
+TXN0052,CUST053,2025-08-19,Ballygunge,Rosogolla Tin,Food,1.0,,Card
+TXN0053,CUST050,2025-02-09,New Market,Punjabi,Clothing,2.0,,Cash
+TXN0054,CUST006,2025-12-22,salt lake  ,Sweets Box,Food,1.0,1200.0,UPI
+TXN0055,CUST022,2025-08-04,Dum Dum,Punjabi,Clothing,1.0,450.0,
+TXN0056,CUST002,2025-06-02,Ballygunge,Rosogolla Tin,Food,1.0,800.0,UPI
+TXN0057,CUST035,2025-08-12,BALLYGUNGE,Fish (Rui),Food,1.0,600.0,
+TXN0058,CUST052,2025-07-03,Salt Lake,Rosogolla Tin,Food,5.0,,
+TXN0059,CUST002,2025-04-04,Dum Dum,Kurti,Clothing,1.0,,UPI
+TXN0060,CUST021,2025-10-05,Dum Dum,Tea Packet,Grocery,2.0,1200.0,UPI
+TXN0061,CUST023,2025-01-16,park street  ,Fish (Rui),Food,5.0,150.0,Cash
+TXN0062,CUST016,2025-10-16,Ballygunge,Sweets Box,Food,,250.0,Card
+TXN0063,CUST011,2025-10-24,Salt Lake,Kurti,Clothing,2.0,250.0,UPI
+TXN0064,CUST026,2025-02-22,Park Street,Fish (Rui),Food,3.0,450.0,UPI
+TXN0065,CUST051,2025-12-05,BEHALA,Saree,Clothing,3.0,1200.0,UPI
+TXN0066,CUST055,2025-07-05,Ballygunge,Rosogolla Tin,Food,1.0,1200.0,
+TXN0067,CUST034,2025-10-31,Ballygunge,Jute Bag,Accessories,2.0,1200.0,UPI
+TXN0068,CUST018,2025-10-19,New Market,Punjabi,Clothing,5.0,,Card
+TXN0069,CUST012,2025-06-24,New Market,Punjabi,Clothing,2.0,600.0,Card
+TXN0070,CUST036,2025-07-28,New Market,Saree,Clothing,1.0,450.0,UPI
+TXN0071,CUST042,2025-02-17,Ballygunge,Punjabi,Clothing,5.0,150.0,Card
+TXN0072,CUST043,2025-08-06,Ballygunge,Tea Packet,Grocery,3.0,800.0,Card
+TXN0073,CUST017,2025-11-06,Park Street,Fish (Rui),Food,,450.0,
+TXN0074,CUST012,2025-05-22,New Market,Fish (Rui),Food,,,Card
+TXN0075,CUST015,2025-12-29,Salt Lake,Tea Packet,Grocery,2.0,150.0,Cash
+TXN0076,CUST019,2025-10-21,Ballygunge,Sweets Box,Food,1.0,150.0,Cash
+TXN0077,CUST004,2025-07-25,BALLYGUNGE,Jute Bag,Accessories,1.0,250.0,UPI
+TXN0078,CUST010,2025-03-02,Howrah,Sweets Box,Food,1.0,450.0,Cash
+TXN0079,CUST050,2025-10-29,Ballygunge,Rosogolla Tin,Food,2.0,600.0,Cash
+TXN0080,CUST048,2025-05-16,New Market,Kurti,Clothing,,450.0,UPI
+TXN0081,CUST011,2025-05-30,Dum Dum,Saree,Clothing,2.0,,
+TXN0082,CUST056,2025-05-16,Park Street,Punjabi,Clothing,,450.0,
+TXN0083,CUST010,2025-03-26,Salt Lake,Jute Bag,Accessories,1.0,150.0,Card
+TXN0084,CUST029,2025-12-25,Ballygunge,Kurti,Clothing,,600.0,UPI
+TXN0085,CUST029,2025-11-06,GARIAHAT,Kurti,Clothing,2.0,800.0,
+TXN0086,CUST054,2025-03-31,Howrah,Saree,Clothing,3.0,150.0,Card
+TXN0087,CUST012,2025-06-28,Ballygunge,Rosogolla Tin,Food,1.0,,Cash
+TXN0088,CUST022,2025-09-10,Ballygunge,Rosogolla Tin,Food,2.0,1200.0,Card
+TXN0089,CUST008,2025-07-31,Gariahat,Rosogolla Tin,Food,,,UPI
+TXN0090,CUST041,2025-10-09,Gariahat,Punjabi,Clothing,1.0,600.0,
+TXN0091,CUST032,2025-12-30,gariahat  ,Kurti,Clothing,,450.0,UPI
+TXN0092,CUST006,2025-11-28,Park Street,Fish (Rui),Food,2.0,250.0,Cash
+TXN0093,CUST046,2025-08-30,Dum Dum,Jute Bag,Accessories,5.0,,Cash
+TXN0094,CUST059,2025-06-24,Park Street,Sweets Box,Food,2.0,1200.0,Card
+TXN0095,CUST054,2025-06-26,Salt Lake,Punjabi,Clothing,2.0,,UPI
+TXN0096,CUST060,2025-10-20,New Market,Tea Packet,Grocery,,450.0,UPI
+TXN0097,CUST021,2025-11-09,Dum Dum,Punjabi,Clothing,2.0,300.0,Card
+TXN0098,CUST056,2025-01-08,Ballygunge,Kurti,Clothing,1.0,,Cash
+TXN0099,CUST005,2025-11-29,Howrah,Punjabi,Clothing,2.0,1200.0,Cash
+TXN0100,CUST025,2025-11-13,Ballygunge,Tea Packet,Grocery,5.0,150.0,Card
+TXN0101,CUST015,2025-08-16,Dum Dum,Kurti,Clothing,1.0,250.0,UPI
+TXN0102,CUST021,2025-08-09,Howrah,Saree,Clothing,2.0,800.0,
+TXN0103,CUST051,2025-11-09,Salt Lake,Sweets Box,Food,1.0,250.0,Cash
+TXN0104,CUST010,2025-08-24,Ballygunge,Fish (Rui),Food,,600.0,UPI
+TXN0105,CUST058,2025-06-26,Salt Lake,Jute Bag,Accessories,1.0,,Card
+TXN0106,CUST030,2025-02-24,New Market,Jute Bag,Accessories,2.0,,Card
+TXN0107,CUST045,2025-05-21,Gariahat,Jute Bag,Accessories,5.0,1200.0,
+TXN0108,CUST004,2025-11-07,Howrah,Punjabi,Clothing,5.0,450.0,Card
+TXN0109,CUST044,2025-06-08,PARK STREET,Sweets Box,Food,,150.0,Cash
+TXN0110,CUST006,2025-03-31,Behala,Jute Bag,Accessories,,1200.0,Card
+TXN0111,CUST034,2025-06-01,Salt Lake,Jute Bag,Accessories,2.0,,UPI
+TXN0112,CUST010,2025-02-16,DUM DUM,Fish (Rui),Food,5.0,800.0,UPI
+TXN0113,CUST024,2025-02-25,Dum Dum,Jute Bag,Accessories,5.0,800.0,Cash
+TXN0114,CUST021,2025-12-25,Park Street,Fish (Rui),Food,,,UPI
+TXN0115,CUST003,2025-05-01,Ballygunge,Jute Bag,Accessories,1.0,250.0,
+TXN0116,CUST045,2025-09-08,Salt Lake,Rosogolla Tin,Food,2.0,250.0,
+TXN0117,CUST024,2025-05-07,Ballygunge,Fish (Rui),Food,2.0,450.0,
+TXN0118,CUST023,2025-03-04,DUM DUM,Saree,Clothing,2.0,450.0,
+TXN0119,CUST039,2025-05-05,Gariahat,Saree,Clothing,5.0,800.0,Cash
+TXN0120,CUST014,2025-02-11,New Market,Fish (Rui),Food,2.0,300.0,Cash
+TXN0121,CUST035,2025-09-03,Salt Lake,Jute Bag,Accessories,1.0,150.0,Cash
+TXN0122,CUST021,2025-03-06,Salt Lake,Saree,Clothing,2.0,150.0,UPI
+TXN0123,CUST029,2025-11-11,Park Street,Tea Packet,Grocery,2.0,450.0,
+TXN0124,CUST034,2025-02-01,Ballygunge,Jute Bag,Accessories,,150.0,UPI
+TXN0125,CUST032,2025-11-08,PARK STREET,Punjabi,Clothing,1.0,800.0,
+TXN0126,CUST038,2025-08-21,DUM DUM,Tea Packet,Grocery,3.0,600.0,
+TXN0127,CUST042,2025-07-31,Dum Dum,Fish (Rui),Food,2.0,450.0,
+TXN0128,CUST007,2025-07-11,Dum Dum,Tea Packet,Grocery,2.0,600.0,UPI
+TXN0129,CUST054,2025-07-10,Park Street,Kurti,Clothing,2.0,250.0,Cash
+TXN0130,CUST036,2025-12-07,Park Street,Tea Packet,Grocery,2.0,800.0,Card
+TXN0131,CUST039,2025-03-21,Behala,Jute Bag,Accessories,1.0,450.0,Cash
+TXN0132,CUST024,2025-08-08,Howrah,Kurti,Clothing,3.0,450.0,
+TXN0133,CUST018,2025-06-23,SALT LAKE,Saree,Clothing,2.0,600.0,Cash
+TXN0134,CUST043,2025-02-16,Park Street,Rosogolla Tin,Food,1.0,150.0,Cash
+TXN0135,CUST024,2025-01-27,Behala,Jute Bag,Accessories,5.0,250.0,
+TXN0136,CUST006,2025-09-06,Ballygunge,Jute Bag,Accessories,,1200.0,Cash
+TXN0137,CUST008,2025-12-14,Dum Dum,Tea Packet,Grocery,1.0,600.0,Cash
+TXN0138,CUST026,2025-04-19,Gariahat,Saree,Clothing,1.0,600.0,UPI
+TXN0139,CUST001,2025-07-14,Dum Dum,Punjabi,Clothing,1.0,300.0,Card
+TXN0140,CUST005,2025-08-24,Gariahat,Rosogolla Tin,Food,2.0,150.0,Cash
+TXN0141,CUST026,2025-01-11,Howrah,Rosogolla Tin,Food,1.0,1200.0,UPI
+TXN0142,CUST054,2025-05-05,Park Street,Tea Packet,Grocery,2.0,250.0,UPI
+TXN0143,CUST056,2025-03-28,Behala,Jute Bag,Accessories,1.0,800.0,Cash
+TXN0144,CUST013,2025-01-05,Behala,Tea Packet,Grocery,,300.0,Cash
+TXN0145,CUST010,2025-08-26,Salt Lake,Kurti,Clothing,5.0,,
+TXN0146,CUST041,2025-02-04,Behala,Tea Packet,Grocery,1.0,,Card
+TXN0147,CUST038,2025-06-08,behala  ,Saree,Clothing,3.0,250.0,Card
+TXN0148,CUST005,2025-08-19,Dum Dum,Kurti,Clothing,2.0,150.0,Cash
+TXN0149,CUST004,2025-02-13,PARK STREET,Punjabi,Clothing,5.0,800.0,UPI
+TXN0150,CUST034,2025-07-18,Behala,Sweets Box,Food,2.0,600.0,UPI
+TXN0151,CUST051,2025-10-13,Park Street,Tea Packet,Grocery,2.0,250.0,
+TXN0152,CUST059,2025-06-29,Behala,Sweets Box,Food,1.0,300.0,UPI
+TXN0153,CUST009,2025-11-26,Howrah,Kurti,Clothing,3.0,1200.0,
+TXN0154,CUST044,2025-01-10,Dum Dum,Kurti,Clothing,3.0,800.0,Card
+TXN0155,CUST050,2025-03-21,New Market,Punjabi,Clothing,1.0,300.0,Cash
+TXN0156,CUST050,2025-11-02,Behala,Saree,Clothing,5.0,300.0,
+TXN0157,CUST050,2025-07-06,Ballygunge,Sweets Box,Food,1.0,1200.0,
+TXN0158,CUST051,2025-06-08,New Market,Punjabi,Clothing,3.0,450.0,
+TXN0159,CUST037,2025-07-15,Ballygunge,Punjabi,Clothing,5.0,600.0,Cash
+TXN0160,CUST009,2025-10-07,Gariahat,Jute Bag,Accessories,,,UPI
+TXN0161,CUST019,2025-09-20,salt lake  ,Kurti,Clothing,2.0,,Cash
+TXN0162,CUST053,2025-01-28,Behala,Punjabi,Clothing,1.0,1200.0,UPI
+TXN0163,CUST024,2025-11-29,Gariahat,Fish (Rui),Food,2.0,250.0,Card
+TXN0164,CUST059,2025-08-18,salt lake  ,Punjabi,Clothing,5.0,,Cash
+TXN0165,CUST054,2025-05-02,Dum Dum,Sweets Box,Food,1.0,600.0,
+TXN0166,CUST051,2025-02-11,Park Street,Punjabi,Clothing,1.0,,
+TXN0167,CUST010,2025-05-04,Dum Dum,Jute Bag,Accessories,1.0,800.0,Cash
+TXN0168,CUST024,2025-01-23,Gariahat,Kurti,Clothing,2.0,,UPI
+TXN0169,CUST023,2025-10-25,Behala,Kurti,Clothing,1.0,250.0,Card
+TXN0170,CUST053,2025-11-20,ballygunge  ,Sweets Box,Food,,,UPI
+TXN0171,CUST003,2025-01-22,New Market,Jute Bag,Accessories,1.0,450.0,Cash
+TXN0172,CUST031,2025-05-27,gariahat  ,Jute Bag,Accessories,5.0,450.0,
+TXN0173,CUST022,2025-08-12,Park Street,Jute Bag,Accessories,5.0,800.0,UPI
+TXN0174,CUST022,2025-07-08,Ballygunge,Sweets Box,Food,,,UPI
+TXN0175,CUST028,2025-02-10,Howrah,Sweets Box,Food,2.0,250.0,Cash
+TXN0176,CUST046,2025-06-29,SALT LAKE,Rosogolla Tin,Food,,,Card
+TXN0177,CUST040,2025-02-08,Howrah,Rosogolla Tin,Food,,150.0,
+TXN0178,CUST011,2025-01-18,SALT LAKE,Saree,Clothing,5.0,,Card
+TXN0179,CUST024,2025-12-14,Gariahat,Rosogolla Tin,Food,3.0,300.0,UPI
+TXN0180,CUST037,2025-11-29,Behala,Sweets Box,Food,2.0,800.0,
+TXN0181,CUST012,2025-05-15,Dum Dum,Punjabi,Clothing,3.0,250.0,Cash
+TXN0182,CUST019,2025-02-07,New Market,Punjabi,Clothing,1.0,300.0,UPI
+TXN0183,CUST052,2025-10-09,Behala,Tea Packet,Grocery,,250.0,
+TXN0184,CUST046,2025-03-04,Behala,Sweets Box,Food,3.0,450.0,UPI
+TXN0185,CUST002,2025-10-11,BEHALA,Tea Packet,Grocery,2.0,300.0,
+TXN0186,CUST047,2025-10-22,Dum Dum,Punjabi,Clothing,5.0,1200.0,UPI
+TXN0187,CUST029,2025-03-08,Behala,Punjabi,Clothing,1.0,300.0,UPI
+TXN0188,CUST034,2025-06-15,Howrah,Sweets Box,Food,1.0,300.0,Card
+TXN0189,CUST055,2025-03-06,howrah  ,Kurti,Clothing,1.0,600.0,
+TXN0190,CUST011,2025-10-16,salt lake  ,Sweets Box,Food,,800.0,UPI
+TXN0191,CUST042,2025-11-13,New Market,Jute Bag,Accessories,5.0,1200.0,Card
+TXN0192,CUST042,2025-06-02,ballygunge  ,Jute Bag,Accessories,1.0,1200.0,UPI
+TXN0193,CUST027,2025-11-07,Ballygunge,Punjabi,Clothing,1.0,800.0,
+TXN0194,CUST056,2025-09-21,Dum Dum,Tea Packet,Grocery,1.0,800.0,Card
+TXN0195,CUST029,2025-05-29,Salt Lake,Fish (Rui),Food,1.0,150.0,Cash
+TXN0196,CUST053,2025-09-13,Behala,Tea Packet,Grocery,1.0,300.0,UPI
+TXN0197,CUST006,2025-10-26,BALLYGUNGE,Rosogolla Tin,Food,1.0,450.0,Cash
+TXN0198,CUST057,2025-02-25,Howrah,Punjabi,Clothing,3.0,150.0,Card
+TXN0199,CUST049,2025-01-27,Behala,Rosogolla Tin,Food,1.0,1200.0,UPI
+TXN0200,CUST033,2025-07-03,Howrah,Punjabi,Clothing,5.0,250.0,Card
+TXN0201,CUST036,2025-09-14,SALT LAKE,Tea Packet,Grocery,1.0,1200.0,Card
+TXN0202,CUST052,2025-06-17,Ballygunge,Punjabi,Clothing,1.0,300.0,
+TXN0203,CUST054,2025-12-29,behala  ,Jute Bag,Accessories,3.0,,Card
+TXN0204,CUST044,2025-12-19,Dum Dum,Kurti,Clothing,3.0,600.0,
+TXN0205,CUST051,2025-03-29,Gariahat,Fish (Rui),Food,3.0,,UPI
+TXN0206,CUST037,2025-06-10,New Market,Kurti,Clothing,1.0,,UPI
+TXN0207,CUST033,2025-09-23,Gariahat,Punjabi,Clothing,,300.0,UPI
+TXN0208,CUST034,2025-09-30,Behala,Rosogolla Tin,Food,1.0,,
+TXN0209,CUST044,2025-05-23,Ballygunge,Jute Bag,Accessories,1.0,450.0,Card
+TXN0210,CUST050,2025-06-12,New Market,Jute Bag,Accessories,,,
+TXN0211,CUST018,2025-07-22,Park Street,Jute Bag,Accessories,3.0,1200.0,Card
+TXN0212,CUST003,2025-12-02,Park Street,Jute Bag,Accessories,2.0,,Cash
+TXN0213,CUST018,2025-05-05,Salt Lake,Jute Bag,Accessories,1.0,450.0,
+TXN0214,CUST015,2025-08-30,Park Street,Saree,Clothing,2.0,800.0,Cash
+TXN0215,CUST060,2025-09-02,Dum Dum,Sweets Box,Food,,,Card
+TXN0216,CUST042,2025-01-10,Park Street,Saree,Clothing,,450.0,Cash
+TXN0217,CUST060,2025-04-06,dum dum  ,Saree,Clothing,5.0,,Cash
+TXN0218,CUST039,2025-11-25,Behala,Kurti,Clothing,2.0,,Cash
+TXN0219,CUST030,2025-06-19,New Market,Jute Bag,Accessories,5.0,250.0,
+TXN0220,CUST012,2025-10-18,Behala,Saree,Clothing,5.0,600.0,UPI
+TXN0221,CUST053,2025-09-12,Behala,Rosogolla Tin,Food,1.0,1200.0,Card
+TXN0222,CUST060,2025-05-01,Gariahat,Fish (Rui),Food,2.0,1200.0,Card
+TXN0223,CUST038,2025-12-21,HOWRAH,Saree,Clothing,,800.0,Card
+TXN0224,CUST011,2025-11-24,Howrah,Rosogolla Tin,Food,,250.0,Cash
+TXN0225,CUST031,2025-08-01,Ballygunge,Sweets Box,Food,,800.0,Cash
+TXN0226,CUST049,2025-09-28,PARK STREET,Fish (Rui),Food,3.0,,UPI
+TXN0227,CUST054,2025-09-24,Salt Lake,Fish (Rui),Food,1.0,800.0,Cash
+TXN0228,CUST032,2025-08-21,Ballygunge,Kurti,Clothing,5.0,150.0,UPI
+TXN0229,CUST036,2025-07-22,Howrah,Punjabi,Clothing,,150.0,Cash
+TXN0230,CUST005,2025-05-10,dum dum  ,Saree,Clothing,2.0,250.0,UPI
+TXN0231,CUST003,2025-11-25,Dum Dum,Jute Bag,Accessories,1.0,300.0,UPI
+TXN0232,CUST056,2025-12-01,Dum Dum,Rosogolla Tin,Food,1.0,300.0,UPI
+TXN0233,CUST034,2025-01-12,New Market,Sweets Box,Food,5.0,150.0,UPI
+TXN0234,CUST035,2025-06-27,New Market,Rosogolla Tin,Food,1.0,,
+TXN0235,CUST049,2025-11-11,gariahat  ,Kurti,Clothing,5.0,1200.0,Cash
+TXN0236,CUST003,2025-07-25,Gariahat,Punjabi,Clothing,1.0,150.0,UPI
+TXN0237,CUST009,2025-10-23,New Market,Jute Bag,Accessories,5.0,800.0,
+TXN0238,CUST034,2025-02-01,Dum Dum,Fish (Rui),Food,2.0,600.0,UPI
+TXN0239,CUST004,2025-12-23,Dum Dum,Tea Packet,Grocery,5.0,800.0,Cash
+TXN0240,CUST049,2025-06-03,New Market,Punjabi,Clothing,5.0,450.0,Cash
+TXN0241,CUST027,2025-05-11,salt lake  ,Rosogolla Tin,Food,2.0,450.0,UPI
+TXN0242,CUST055,2025-01-27,Park Street,Tea Packet,Grocery,3.0,450.0,UPI
+TXN0243,CUST056,2025-09-03,New Market,Kurti,Clothing,5.0,450.0,UPI
+TXN0244,CUST014,2025-05-05,Park Street,Fish (Rui),Food,,,Card
+TXN0245,CUST050,2025-06-07,Dum Dum,Jute Bag,Accessories,2.0,800.0,UPI
+TXN0246,CUST007,2025-06-10,BEHALA,Punjabi,Clothing,1.0,800.0,
+TXN0247,CUST010,2025-06-01,Howrah,Saree,Clothing,3.0,1200.0,Cash
+TXN0248,CUST054,2025-05-12,Ballygunge,Fish (Rui),Food,3.0,800.0,UPI
+TXN0249,CUST030,2025-10-07,Behala,Sweets Box,Food,1.0,300.0,
+TXN0250,CUST004,2025-01-04,Park Street,Saree,Clothing,5.0,150.0,UPI
+TXN0068,CUST018,2025-10-19,New Market,Punjabi,Clothing,5.0,,Card
+TXN0250,CUST004,2025-01-04,Park Street,Saree,Clothing,5.0,150.0,UPI
+TXN0231,CUST003,2025-11-25,Dum Dum,Jute Bag,Accessories,1.0,300.0,UPI
+TXN0162,CUST053,2025-01-28,Behala,Punjabi,Clothing,1.0,1200.0,UPI
+TXN0092,CUST006,2025-11-28,Park Street,Fish (Rui),Food,2.0,250.0,Cash
+TXN0225,CUST031,2025-08-01,Ballygunge,Sweets Box,Food,,800.0,Cash
+TXN0059,CUST002,2025-04-04,Dum Dum,Kurti,Clothing,1.0,,UPI
+TXN0235,CUST049,2025-11-11,gariahat  ,Kurti,Clothing,5.0,1200.0,Cash
